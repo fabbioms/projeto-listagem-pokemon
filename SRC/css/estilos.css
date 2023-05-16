@@ -5,7 +5,6 @@ body{
     background-color: #5e5b5bad;
     color: #333333; 
     background-image: url(./imagem_css/dia.jpg);
-    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
@@ -13,7 +12,6 @@ body.modo-escuro{
     background-color: #212121;
     color: #ffffff;
     background-image: url(./imagem_css/noite.png);
-    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
