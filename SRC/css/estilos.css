@@ -7,7 +7,6 @@ body{
     background-image: url(./imagem_css/dia.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 100% 100%;   
 }
 
 body.modo-escuro{
@@ -16,8 +15,6 @@ body.modo-escuro{
     background-image: url(./imagem_css/noite.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 100% 100%;
-
 }
 
 header{
